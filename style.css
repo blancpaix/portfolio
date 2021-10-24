@@ -5,6 +5,7 @@ body {
   text-overflow: clip;
   width: 100vw;
   overflow-x: hidden;
+  font-family: 'Malgun Gothic';
 }
 
 .sticky-wrapper {
@@ -430,6 +431,15 @@ body {
   font-weight: bold;
   line-height: 10px;
   margin-left : 64px;
+}
+.info-test{
+  font-size: 1rem;
+  font-weight: bold;
+  color: grey;
+  line-height: 4px;
+  margin-left: 32px;
+  margin-top: 8px;
+  margin-bottom: 8px;
 }
 
 .app-image-box {
